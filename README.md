@@ -1,16 +1,26 @@
-## Hi there 👋
+ # Hi there, I'm Amanda! 👋
 
-<!--
-**amachi11/amachi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+I'm a Computing Information Systems student at Saint Mary's University with a passion for **cybersecurity, technology, and innovation**. I'm also an aspiring **cybersecurity analyst** and a startup founder.
 
-Here are some ideas to get you started:
+### 💡 What I'm Working On
+- 📌 **Cybersecurity & Tech Projects**
+- 💻 **Growing My GitHub Portfolio**
+- 🚀 **Cuptimize - My Startup**
+- 📚 **Learning More About Cybersecurity & Ethical Hacking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cHINWEdIANNA&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cHINWEdIANNA&layout=compact&theme=radical)
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChinweduIwuji-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinwedu-iwuji/)
+[![Email](https://img.shields.io/badge/Email-ezeamanda12@gmail.com-red?style=flat-square&logo=gmail)](mailto:ezeamanda12@gmail.com)
