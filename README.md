@@ -1,15 +1,15 @@
  # Hi there, I'm Amanda! 👋
 
 ### 🌟 About Me
-I'm a Computing Information Systems student at Saint Mary's University with a passion for **cybersecurity, technology, and innovation**. I'm also an aspiring **cybersecurity analyst** and a startup founder.
+I'm a Computer science and business administration  student at Saint Mary's University with a passion for technology, and innovation. I'm also an aspiring IT professional and a startup founder.
 
-### 💡 What I'm Working On
-- 📌 **Cybersecurity & Tech Projects**
-- 💻 **Growing My GitHub Portfolio**
-- 🚀 **Cuptimize - My Startup**
+ 💡 What I'm Working On
+- 📌 * POWER BI PROJECTS *
+- 💻 **Growing My GitHub Portfolio*
 - 📚 **Learning More About Cybersecurity & Ethical Hacking**
 
-### 🛠️ Tech Stack
+ 🛠️ Tech Stack
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -22,5 +22,5 @@ I'm a Computing Information Systems student at Saint Mary's University with a pa
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cHINWEdIANNA&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cHINWEdIANNA&layout=compact&theme=radical)
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChinweduIwuji-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinwedu-iwuji/)
+[![LinkedIn](https://www.linkedin.com/in/amanda-eze-bb252b276/)
 [![Email](https://img.shields.io/badge/Email-ezeamanda12@gmail.com-red?style=flat-square&logo=gmail)](mailto:ezeamanda12@gmail.com)
